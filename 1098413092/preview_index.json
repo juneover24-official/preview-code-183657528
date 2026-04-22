@@ -1,0 +1,79 @@
+{
+  "qq_number": "183657528",
+  "group_number": "1098413092",
+  "updated_at": "2026-04-22T16:19:42.488474",
+  "skins": [
+    {
+      "name": "月光回忆录脆",
+      "file": "月光回忆录脆1.bds",
+      "thumb": "月光回忆录脆1.bds_py_26_default_thumb.png",
+      "full": "月光回忆录脆1.bds_py_26_default.png"
+    },
+    {
+      "name": "月光回忆录闷",
+      "file": "月光回忆录闷1.bds",
+      "thumb": "月光回忆录闷1.bds_py_26_default_thumb.png",
+      "full": "月光回忆录闷1.bds_py_26_default.png"
+    },
+    {
+      "name": "我草莓招了脆",
+      "file": "我草莓招了脆1.bds",
+      "thumb": "我草莓招了脆1.bds_py_26_default_thumb.png",
+      "full": "我草莓招了脆1.bds_py_26_default.png"
+    },
+    {
+      "name": "可爱猪白",
+      "file": "可爱猪白.bds",
+      "thumb": "可爱猪白.bds_py_26_default_thumb.png",
+      "full": "可爱猪白.bds_py_26_default.png"
+    },
+    {
+      "name": "我草莓招了闷",
+      "file": "我草莓招了闷1.bds",
+      "thumb": "我草莓招了闷1.bds_py_26_default_thumb.png",
+      "full": "我草莓招了闷1.bds_py_26_default.png"
+    },
+    {
+      "name": "可爱猪",
+      "file": "可爱猪.bds",
+      "thumb": "可爱猪.bds_py_26_default_thumb.png",
+      "full": "可爱猪.bds_py_26_default.png"
+    },
+    {
+      "name": "月光回忆录闷",
+      "file": "月光回忆录闷1.bdi",
+      "thumb": "月光回忆录闷1.bdi_py_26_default_thumb.png",
+      "full": "月光回忆录闷1.bdi_py_26_default.png"
+    },
+    {
+      "name": "可爱猪白",
+      "file": "可爱猪白.bdi",
+      "thumb": "可爱猪白.bdi_py_26_default_thumb.png",
+      "full": "可爱猪白.bdi_py_26_default.png"
+    },
+    {
+      "name": "我草莓招了闷",
+      "file": "我草莓招了闷.bdi",
+      "thumb": "我草莓招了闷.bdi_py_26_default_thumb.png",
+      "full": "我草莓招了闷.bdi_py_26_default.png"
+    },
+    {
+      "name": "月光回忆录脆",
+      "file": "月光回忆录脆1.bdi",
+      "thumb": "月光回忆录脆1.bdi_py_26_default_thumb.png",
+      "full": "月光回忆录脆1.bdi_py_26_default.png"
+    },
+    {
+      "name": "我草莓招了脆",
+      "file": "我草莓招了脆.bdi",
+      "thumb": "我草莓招了脆.bdi_py_26_default_thumb.png",
+      "full": "我草莓招了脆.bdi_py_26_default.png"
+    },
+    {
+      "name": "可爱猪",
+      "file": "可爱猪.bdi",
+      "thumb": "可爱猪.bdi_py_26_default_thumb.png",
+      "full": "可爱猪.bdi_py_26_default.png"
+    }
+  ]
+}
