@@ -1,92 +1,8 @@
 {
   "qq_number": "183657528",
   "group_number": "1087161404",
-  "updated_at": "2026-04-22T16:19:18.832948",
+  "updated_at": "2026-04-23T15:52:37.421781",
   "skins": [
-    {
-      "name": "「时清の春野夢」七层风铃",
-      "file": "七层风铃の闷音彩底.bds",
-      "thumb": "七层风铃の闷音彩底.bds_py_26_light_thumb.png",
-      "full": "七层风铃の闷音彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "「时清の春野夢」七层风铃",
-      "file": "七层风铃の脆音彩底.bds",
-      "thumb": "七层风铃の脆音彩底.bds_py_26_light_thumb.png",
-      "full": "七层风铃の脆音彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "「春野夢」恋爱预制品",
-      "file": "恋爱预制品の闷.bds",
-      "thumb": "恋爱预制品の闷.bds_py_26_light_thumb.png",
-      "full": "恋爱预制品の闷.bds_py_26_light.png"
-    },
-    {
-      "name": "春野夢、犹听春谕",
-      "file": "犹听春谕の彩闷.bds",
-      "thumb": "犹听春谕の彩闷.bds_py_26_light_thumb.png",
-      "full": "犹听春谕の彩闷.bds_py_26_light.png"
-    },
-    {
-      "name": "「春野夢」芜春弦歌（脆）",
-      "file": "芜春弦歌の脆.bds",
-      "thumb": "芜春弦歌の脆.bds_py_26_light_thumb.png",
-      "full": "芜春弦歌の脆.bds_py_26_light.png"
-    },
-    {
-      "name": "「春野夢」恋爱预制品",
-      "file": "恋爱预制品の脆.bds",
-      "thumb": "恋爱预制品の脆.bds_py_26_light_thumb.png",
-      "full": "恋爱预制品の脆.bds_py_26_light.png"
-    },
-    {
-      "name": "春野夢、犹听春谕",
-      "file": "犹听春谕の彩脆无光波.bds",
-      "thumb": "犹听春谕の彩脆无光波.bds_py_26_light_thumb.png",
-      "full": "犹听春谕の彩脆无光波.bds_py_26_light.png"
-    },
-    {
-      "name": "春野夢、犹听春谕",
-      "file": "犹听春谕の彩闷无光波.bds",
-      "thumb": "犹听春谕の彩闷无光波.bds_py_26_light_thumb.png",
-      "full": "犹听春谕の彩闷无光波.bds_py_26_light.png"
-    },
-    {
-      "name": "電子青蘋果「彩闷」",
-      "file": "電子青蘋果の彩闷有动销.bds",
-      "thumb": "電子青蘋果の彩闷有动销.bds_py_26_light_thumb.png",
-      "full": "電子青蘋果の彩闷有动销.bds_py_26_light.png"
-    },
-    {
-      "name": "春野夢、犹听春谕",
-      "file": "犹听春谕の彩脆.bds",
-      "thumb": "犹听春谕の彩脆.bds_py_26_light_thumb.png",
-      "full": "犹听春谕の彩脆.bds_py_26_light.png"
-    },
-    {
-      "name": "電子青蘋果「彩脆」",
-      "file": "電子青蘋果の彩脆无动销.bds",
-      "thumb": "電子青蘋果の彩脆无动销.bds_py_26_light_thumb.png",
-      "full": "電子青蘋果の彩脆无动销.bds_py_26_light.png"
-    },
-    {
-      "name": "「春野夢」芜春弦歌（闷）",
-      "file": "芜春弦歌の闷.bds",
-      "thumb": "芜春弦歌の闷.bds_py_26_light_thumb.png",
-      "full": "芜春弦歌の闷.bds_py_26_light.png"
-    },
-    {
-      "name": "電子青蘋果「彩脆」",
-      "file": "電子青蘋果の彩脆有动销.bds",
-      "thumb": "電子青蘋果の彩脆有动销.bds_py_26_light_thumb.png",
-      "full": "電子青蘋果の彩脆有动销.bds_py_26_light.png"
-    },
-    {
-      "name": "電子青蘋果「彩闷」",
-      "file": "電子青蘋果の彩闷无动销.bds",
-      "thumb": "電子青蘋果の彩闷无动销.bds_py_26_light_thumb.png",
-      "full": "電子青蘋果の彩闷无动销.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "芜春弦歌の融脆.bdi",
@@ -254,6 +170,90 @@
       "file": "犹听春谕の融闷无光波.bdi",
       "thumb": "犹听春谕の融闷无光波.bdi_py_26_light_thumb.png",
       "full": "犹听春谕の融闷无光波.bdi_py_26_light.png"
+    },
+    {
+      "name": "「时清の春野夢」七层风铃",
+      "file": "七层风铃の闷音彩底.bds",
+      "thumb": "七层风铃の闷音彩底.bds_py_26_light_thumb.png",
+      "full": "七层风铃の闷音彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "「时清の春野夢」七层风铃",
+      "file": "七层风铃の脆音彩底.bds",
+      "thumb": "七层风铃の脆音彩底.bds_py_26_light_thumb.png",
+      "full": "七层风铃の脆音彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "「春野夢」恋爱预制品",
+      "file": "恋爱预制品の闷.bds",
+      "thumb": "恋爱预制品の闷.bds_py_26_light_thumb.png",
+      "full": "恋爱预制品の闷.bds_py_26_light.png"
+    },
+    {
+      "name": "春野夢、犹听春谕",
+      "file": "犹听春谕の彩闷.bds",
+      "thumb": "犹听春谕の彩闷.bds_py_26_light_thumb.png",
+      "full": "犹听春谕の彩闷.bds_py_26_light.png"
+    },
+    {
+      "name": "「春野夢」芜春弦歌（脆）",
+      "file": "芜春弦歌の脆.bds",
+      "thumb": "芜春弦歌の脆.bds_py_26_light_thumb.png",
+      "full": "芜春弦歌の脆.bds_py_26_light.png"
+    },
+    {
+      "name": "「春野夢」恋爱预制品",
+      "file": "恋爱预制品の脆.bds",
+      "thumb": "恋爱预制品の脆.bds_py_26_light_thumb.png",
+      "full": "恋爱预制品の脆.bds_py_26_light.png"
+    },
+    {
+      "name": "春野夢、犹听春谕",
+      "file": "犹听春谕の彩脆无光波.bds",
+      "thumb": "犹听春谕の彩脆无光波.bds_py_26_light_thumb.png",
+      "full": "犹听春谕の彩脆无光波.bds_py_26_light.png"
+    },
+    {
+      "name": "春野夢、犹听春谕",
+      "file": "犹听春谕の彩闷无光波.bds",
+      "thumb": "犹听春谕の彩闷无光波.bds_py_26_light_thumb.png",
+      "full": "犹听春谕の彩闷无光波.bds_py_26_light.png"
+    },
+    {
+      "name": "電子青蘋果「彩闷」",
+      "file": "電子青蘋果の彩闷有动销.bds",
+      "thumb": "電子青蘋果の彩闷有动销.bds_py_26_light_thumb.png",
+      "full": "電子青蘋果の彩闷有动销.bds_py_26_light.png"
+    },
+    {
+      "name": "春野夢、犹听春谕",
+      "file": "犹听春谕の彩脆.bds",
+      "thumb": "犹听春谕の彩脆.bds_py_26_light_thumb.png",
+      "full": "犹听春谕の彩脆.bds_py_26_light.png"
+    },
+    {
+      "name": "電子青蘋果「彩脆」",
+      "file": "電子青蘋果の彩脆无动销.bds",
+      "thumb": "電子青蘋果の彩脆无动销.bds_py_26_light_thumb.png",
+      "full": "電子青蘋果の彩脆无动销.bds_py_26_light.png"
+    },
+    {
+      "name": "「春野夢」芜春弦歌（闷）",
+      "file": "芜春弦歌の闷.bds",
+      "thumb": "芜春弦歌の闷.bds_py_26_light_thumb.png",
+      "full": "芜春弦歌の闷.bds_py_26_light.png"
+    },
+    {
+      "name": "電子青蘋果「彩脆」",
+      "file": "電子青蘋果の彩脆有动销.bds",
+      "thumb": "電子青蘋果の彩脆有动销.bds_py_26_light_thumb.png",
+      "full": "電子青蘋果の彩脆有动销.bds_py_26_light.png"
+    },
+    {
+      "name": "電子青蘋果「彩闷」",
+      "file": "電子青蘋果の彩闷无动销.bds",
+      "thumb": "電子青蘋果の彩闷无动销.bds_py_26_light_thumb.png",
+      "full": "電子青蘋果の彩闷无动销.bds_py_26_light.png"
     }
   ]
 }

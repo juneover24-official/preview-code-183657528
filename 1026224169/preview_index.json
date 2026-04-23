@@ -1,284 +1,8 @@
 {
   "qq_number": "183657528",
   "group_number": "1026224169",
-  "updated_at": "2026-04-22T16:19:15.075887",
+  "updated_at": "2026-04-23T15:52:35.528579",
   "skins": [
-    {
-      "name": "缘の阴雨专辑",
-      "file": "时清の阴雨专辑.bds",
-      "thumb": "时清の阴雨专辑.bds_py_26_default_thumb.png",
-      "full": "时清の阴雨专辑.bds_py_26_default.png"
-    },
-    {
-      "name": "「时清の薄巧乳酪.彩闷动」",
-      "file": "薄巧乳酪彩闷动.bds",
-      "thumb": "薄巧乳酪彩闷动.bds_py_26_light_thumb.png",
-      "full": "薄巧乳酪彩闷动.bds_py_26_light.png"
-    },
-    {
-      "name": "时清のdevil怨墟②",
-      "file": "devil怨墟二彩底.bds",
-      "thumb": "devil怨墟二彩底.bds_py_26_light_thumb.png",
-      "full": "devil怨墟二彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "shiq.熊猫宝宝",
-      "file": "熊猫宝宝.bds",
-      "thumb": "熊猫宝宝.bds_py_26_default_thumb.png",
-      "full": "熊猫宝宝.bds_py_26_default.png"
-    },
-    {
-      "name": "shiq.甜莓来信",
-      "file": "甜莓来信の无动销融底.bds",
-      "thumb": "甜莓来信の无动销融底.bds_py_26_default_thumb.png",
-      "full": "甜莓来信の无动销融底.bds_py_26_default.png"
-    },
-    {
-      "name": "shiq.童话漫游",
-      "file": "童话漫游彩底.bds",
-      "thumb": "童话漫游彩底.bds_py_26_default_thumb.png",
-      "full": "童话漫游彩底.bds_py_26_default.png"
-    },
-    {
-      "name": "shiq.萌萌兔丸",
-      "file": "萌萌兔丸.bds",
-      "thumb": "萌萌兔丸.bds_py_26_default_thumb.png",
-      "full": "萌萌兔丸.bds_py_26_default.png"
-    },
-    {
-      "name": "「时清の薄巧乳酪.彩闷动漂」",
-      "file": "薄巧乳酪彩闷动漂.bds",
-      "thumb": "薄巧乳酪彩闷动漂.bds_py_26_light_thumb.png",
-      "full": "薄巧乳酪彩闷动漂.bds_py_26_light.png"
-    },
-    {
-      "name": "「时清の薄巧乳酪.彩脆动」",
-      "file": "薄巧乳酪彩脆动.bds",
-      "thumb": "薄巧乳酪彩脆动.bds_py_26_light_thumb.png",
-      "full": "薄巧乳酪彩脆动.bds_py_26_light.png"
-    },
-    {
-      "name": "shiq.泪是忧郁的蓝",
-      "file": "泪是忧郁的蓝の融.bds",
-      "thumb": "泪是忧郁的蓝の融.bds_py_26_default_thumb.png",
-      "full": "泪是忧郁的蓝の融.bds_py_26_default.png"
-    },
-    {
-      "name": "时清のdevil怨墟①",
-      "file": "devil怨墟音效一彩底.bds",
-      "thumb": "devil怨墟音效一彩底.bds_py_26_light_thumb.png",
-      "full": "devil怨墟音效一彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "「shiq」如何走进妳的心ᐝ",
-      "file": "如何走进妳的心ᐝ彩闷.bds",
-      "thumb": "如何走进妳的心ᐝ彩闷.bds_py_26_light_thumb.png",
-      "full": "如何走进妳的心ᐝ彩闷.bds_py_26_light.png"
-    },
-    {
-      "name": "时清のdevil怨墟②",
-      "file": "devil怨墟音效二彩底.bds",
-      "thumb": "devil怨墟音效二彩底.bds_py_26_light_thumb.png",
-      "full": "devil怨墟音效二彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "shiq.海盐甜品",
-      "file": "海盐甜品の彩脆.bds",
-      "thumb": "海盐甜品の彩脆.bds_py_26_light_thumb.png",
-      "full": "海盐甜品の彩脆.bds_py_26_light.png"
-    },
-    {
-      "name": "小猫泡泡浴「音效1」",
-      "file": "小猫泡泡浴の彩1.bds",
-      "thumb": "小猫泡泡浴の彩1.bds_py_26_light_thumb.png",
-      "full": "小猫泡泡浴の彩1.bds_py_26_light.png"
-    },
-    {
-      "name": "shiq.甜莓来信",
-      "file": "甜莓来信の无动销彩底.bds",
-      "thumb": "甜莓来信の无动销彩底.bds_py_26_default_thumb.png",
-      "full": "甜莓来信の无动销彩底.bds_py_26_default.png"
-    },
-    {
-      "name": "「shiq」如何走进妳的心ᐝ",
-      "file": "如何走进妳的心ᐝ彩脆.bds",
-      "thumb": "如何走进妳的心ᐝ彩脆.bds_py_26_light_thumb.png",
-      "full": "如何走进妳的心ᐝ彩脆.bds_py_26_light.png"
-    },
-    {
-      "name": "shiq.甜莓来信",
-      "file": "甜莓来信の彩底.bds",
-      "thumb": "甜莓来信の彩底.bds_py_26_default_thumb.png",
-      "full": "甜莓来信の彩底.bds_py_26_default.png"
-    },
-    {
-      "name": "时清★樱茶星冰乐.闷闷",
-      "file": "樱茶星冰乐闷.bds",
-      "thumb": "樱茶星冰乐闷.bds_py_26_default_thumb.png",
-      "full": "樱茶星冰乐闷.bds_py_26_default.png"
-    },
-    {
-      "name": "时清「懒羊羊」",
-      "file": "时清の懒羊羊.bds",
-      "thumb": "时清の懒羊羊.bds_py_26_default_thumb.png",
-      "full": "时清の懒羊羊.bds_py_26_default.png"
-    },
-    {
-      "name": "shiq.她眸中的泪雾.脆",
-      "file": "她眸中的泪雾脆.bds",
-      "thumb": "她眸中的泪雾脆.bds_py_26_light_thumb.png",
-      "full": "她眸中的泪雾脆.bds_py_26_light.png"
-    },
-    {
-      "name": "shiqの云间私语「咕噜」",
-      "file": "云间私语の彩一.bds",
-      "thumb": "云间私语の彩一.bds_py_26_light_thumb.png",
-      "full": "云间私语の彩一.bds_py_26_light.png"
-    },
-    {
-      "name": "【shiq】清清莓上语",
-      "file": "清清莓上语の彩脆.bds",
-      "thumb": "清清莓上语の彩脆.bds_py_26_default_thumb.png",
-      "full": "清清莓上语の彩脆.bds_py_26_default.png"
-    },
-    {
-      "name": "shiq.恋爱日记.彩",
-      "file": "恋爱日记の彩闷.bds",
-      "thumb": "恋爱日记の彩闷.bds_py_26_light_thumb.png",
-      "full": "恋爱日记の彩闷.bds_py_26_light.png"
-    },
-    {
-      "name": "shiq.她眸中的泪雾.闷",
-      "file": "她眸中的泪雾闷.bds",
-      "thumb": "她眸中的泪雾闷.bds_py_26_light_thumb.png",
-      "full": "她眸中的泪雾闷.bds_py_26_light.png"
-    },
-    {
-      "name": "【shiq】清清莓上语",
-      "file": "清清莓上语の彩闷.bds",
-      "thumb": "清清莓上语の彩闷.bds_py_26_default_thumb.png",
-      "full": "清清莓上语の彩闷.bds_py_26_default.png"
-    },
-    {
-      "name": "Yami｜仿iOS",
-      "file": "Yami仿ios键盘.bds",
-      "thumb": "Yami仿ios键盘.bds_py_26_light_thumb.png",
-      "full": "Yami仿ios键盘.bds_py_26_light.png"
-    },
-    {
-      "name": "小猫泡泡浴「音效2」",
-      "file": "小猫泡泡浴の彩2.bds",
-      "thumb": "小猫泡泡浴の彩2.bds_py_26_light_thumb.png",
-      "full": "小猫泡泡浴の彩2.bds_py_26_light.png"
-    },
-    {
-      "name": "猫耳相对论♡脆",
-      "file": "猫耳相对论の脆.bds",
-      "thumb": "猫耳相对论の脆.bds_py_26_light_thumb.png",
-      "full": "猫耳相对论の脆.bds_py_26_light.png"
-    },
-    {
-      "name": "时清のdevil怨墟①",
-      "file": "devil怨墟一彩底.bds",
-      "thumb": "devil怨墟一彩底.bds_py_26_light_thumb.png",
-      "full": "devil怨墟一彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "shiq.抽象黑脸",
-      "file": "抽象黑脸.bds",
-      "thumb": "抽象黑脸.bds_py_26_default_thumb.png",
-      "full": "抽象黑脸.bds_py_26_default.png"
-    },
-    {
-      "name": "shiqの云间私语「闷脆」",
-      "file": "云间私语の彩二.bds",
-      "thumb": "云间私语の彩二.bds_py_26_light_thumb.png",
-      "full": "云间私语の彩二.bds_py_26_light.png"
-    },
-    {
-      "name": "「时清の薄巧乳酪.彩脆动漂」",
-      "file": "薄巧乳酪彩脆动漂.bds",
-      "thumb": "薄巧乳酪彩脆动漂.bds_py_26_light_thumb.png",
-      "full": "薄巧乳酪彩脆动漂.bds_py_26_light.png"
-    },
-    {
-      "name": "shiq.甜莓来信",
-      "file": "甜莓来信の融底.bds",
-      "thumb": "甜莓来信の融底.bds_py_26_default_thumb.png",
-      "full": "甜莓来信の融底.bds_py_26_default.png"
-    },
-    {
-      "name": "shiq.泪是忧郁的蓝",
-      "file": "泪是忧郁的蓝の彩.bds",
-      "thumb": "泪是忧郁的蓝の彩.bds_py_26_default_thumb.png",
-      "full": "泪是忧郁的蓝の彩.bds_py_26_default.png"
-    },
-    {
-      "name": "「清の拟态兔兔熊」",
-      "file": "拟态兔兔熊.bds",
-      "thumb": "拟态兔兔熊.bds_py_26_default_thumb.png",
-      "full": "拟态兔兔熊.bds_py_26_default.png"
-    },
-    {
-      "name": "「时清の薄巧乳酪.彩脆漂」",
-      "file": "薄巧乳酪彩脆漂.bds",
-      "thumb": "薄巧乳酪彩脆漂.bds_py_26_light_thumb.png",
-      "full": "薄巧乳酪彩脆漂.bds_py_26_light.png"
-    },
-    {
-      "name": "shiq.趴趴小羊",
-      "file": "趴趴小羊.bds",
-      "thumb": "趴趴小羊.bds_py_26_default_thumb.png",
-      "full": "趴趴小羊.bds_py_26_default.png"
-    },
-    {
-      "name": "shiq.自嘲熊",
-      "file": "自嘲熊.bds",
-      "thumb": "自嘲熊.bds_py_26_default_thumb.png",
-      "full": "自嘲熊.bds_py_26_default.png"
-    },
-    {
-      "name": "shiq.黑白棋局",
-      "file": "黑白棋局の彩闷.bds",
-      "thumb": "黑白棋局の彩闷.bds_py_26_light_thumb.png",
-      "full": "黑白棋局の彩闷.bds_py_26_light.png"
-    },
-    {
-      "name": "shiq.黑白棋局",
-      "file": "黑白棋局の彩脆.bds",
-      "thumb": "黑白棋局の彩脆.bds_py_26_light_thumb.png",
-      "full": "黑白棋局の彩脆.bds_py_26_light.png"
-    },
-    {
-      "name": "时清★樱茶星冰乐.脆脆",
-      "file": "樱茶星冰乐脆.bds",
-      "thumb": "樱茶星冰乐脆.bds_py_26_default_thumb.png",
-      "full": "樱茶星冰乐脆.bds_py_26_default.png"
-    },
-    {
-      "name": "shiq.海盐甜品",
-      "file": "海盐甜品の彩闷.bds",
-      "thumb": "海盐甜品の彩闷.bds_py_26_light_thumb.png",
-      "full": "海盐甜品の彩闷.bds_py_26_light.png"
-    },
-    {
-      "name": "shiq.童话漫游",
-      "file": "童话漫游融底.bds",
-      "thumb": "童话漫游融底.bds_py_26_default_thumb.png",
-      "full": "童话漫游融底.bds_py_26_default.png"
-    },
-    {
-      "name": "猫耳相对论♡闷",
-      "file": "猫耳相对论の闷.bds",
-      "thumb": "猫耳相对论の闷.bds_py_26_light_thumb.png",
-      "full": "猫耳相对论の闷.bds_py_26_light.png"
-    },
-    {
-      "name": "「时清の薄巧乳酪.彩闷漂」",
-      "file": "薄巧乳酪彩闷漂.bds",
-      "thumb": "薄巧乳酪彩闷漂.bds_py_26_light_thumb.png",
-      "full": "薄巧乳酪彩闷漂.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "devil怨墟一彩底.bdi",
@@ -692,6 +416,282 @@
       "file": "甜莓来信の彩底.bdi",
       "thumb": "甜莓来信の彩底.bdi_py_26_default_thumb.png",
       "full": "甜莓来信の彩底.bdi_py_26_default.png"
+    },
+    {
+      "name": "缘の阴雨专辑",
+      "file": "时清の阴雨专辑.bds",
+      "thumb": "时清の阴雨专辑.bds_py_26_default_thumb.png",
+      "full": "时清の阴雨专辑.bds_py_26_default.png"
+    },
+    {
+      "name": "「时清の薄巧乳酪.彩闷动」",
+      "file": "薄巧乳酪彩闷动.bds",
+      "thumb": "薄巧乳酪彩闷动.bds_py_26_light_thumb.png",
+      "full": "薄巧乳酪彩闷动.bds_py_26_light.png"
+    },
+    {
+      "name": "时清のdevil怨墟②",
+      "file": "devil怨墟二彩底.bds",
+      "thumb": "devil怨墟二彩底.bds_py_26_light_thumb.png",
+      "full": "devil怨墟二彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "shiq.熊猫宝宝",
+      "file": "熊猫宝宝.bds",
+      "thumb": "熊猫宝宝.bds_py_26_default_thumb.png",
+      "full": "熊猫宝宝.bds_py_26_default.png"
+    },
+    {
+      "name": "shiq.甜莓来信",
+      "file": "甜莓来信の无动销融底.bds",
+      "thumb": "甜莓来信の无动销融底.bds_py_26_default_thumb.png",
+      "full": "甜莓来信の无动销融底.bds_py_26_default.png"
+    },
+    {
+      "name": "shiq.童话漫游",
+      "file": "童话漫游彩底.bds",
+      "thumb": "童话漫游彩底.bds_py_26_default_thumb.png",
+      "full": "童话漫游彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "shiq.萌萌兔丸",
+      "file": "萌萌兔丸.bds",
+      "thumb": "萌萌兔丸.bds_py_26_default_thumb.png",
+      "full": "萌萌兔丸.bds_py_26_default.png"
+    },
+    {
+      "name": "「时清の薄巧乳酪.彩闷动漂」",
+      "file": "薄巧乳酪彩闷动漂.bds",
+      "thumb": "薄巧乳酪彩闷动漂.bds_py_26_light_thumb.png",
+      "full": "薄巧乳酪彩闷动漂.bds_py_26_light.png"
+    },
+    {
+      "name": "「时清の薄巧乳酪.彩脆动」",
+      "file": "薄巧乳酪彩脆动.bds",
+      "thumb": "薄巧乳酪彩脆动.bds_py_26_light_thumb.png",
+      "full": "薄巧乳酪彩脆动.bds_py_26_light.png"
+    },
+    {
+      "name": "shiq.泪是忧郁的蓝",
+      "file": "泪是忧郁的蓝の融.bds",
+      "thumb": "泪是忧郁的蓝の融.bds_py_26_default_thumb.png",
+      "full": "泪是忧郁的蓝の融.bds_py_26_default.png"
+    },
+    {
+      "name": "时清のdevil怨墟①",
+      "file": "devil怨墟音效一彩底.bds",
+      "thumb": "devil怨墟音效一彩底.bds_py_26_light_thumb.png",
+      "full": "devil怨墟音效一彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "「shiq」如何走进妳的心ᐝ",
+      "file": "如何走进妳的心ᐝ彩闷.bds",
+      "thumb": "如何走进妳的心ᐝ彩闷.bds_py_26_light_thumb.png",
+      "full": "如何走进妳的心ᐝ彩闷.bds_py_26_light.png"
+    },
+    {
+      "name": "时清のdevil怨墟②",
+      "file": "devil怨墟音效二彩底.bds",
+      "thumb": "devil怨墟音效二彩底.bds_py_26_light_thumb.png",
+      "full": "devil怨墟音效二彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "shiq.海盐甜品",
+      "file": "海盐甜品の彩脆.bds",
+      "thumb": "海盐甜品の彩脆.bds_py_26_light_thumb.png",
+      "full": "海盐甜品の彩脆.bds_py_26_light.png"
+    },
+    {
+      "name": "小猫泡泡浴「音效1」",
+      "file": "小猫泡泡浴の彩1.bds",
+      "thumb": "小猫泡泡浴の彩1.bds_py_26_light_thumb.png",
+      "full": "小猫泡泡浴の彩1.bds_py_26_light.png"
+    },
+    {
+      "name": "shiq.甜莓来信",
+      "file": "甜莓来信の无动销彩底.bds",
+      "thumb": "甜莓来信の无动销彩底.bds_py_26_default_thumb.png",
+      "full": "甜莓来信の无动销彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "「shiq」如何走进妳的心ᐝ",
+      "file": "如何走进妳的心ᐝ彩脆.bds",
+      "thumb": "如何走进妳的心ᐝ彩脆.bds_py_26_light_thumb.png",
+      "full": "如何走进妳的心ᐝ彩脆.bds_py_26_light.png"
+    },
+    {
+      "name": "shiq.甜莓来信",
+      "file": "甜莓来信の彩底.bds",
+      "thumb": "甜莓来信の彩底.bds_py_26_default_thumb.png",
+      "full": "甜莓来信の彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "时清★樱茶星冰乐.闷闷",
+      "file": "樱茶星冰乐闷.bds",
+      "thumb": "樱茶星冰乐闷.bds_py_26_default_thumb.png",
+      "full": "樱茶星冰乐闷.bds_py_26_default.png"
+    },
+    {
+      "name": "时清「懒羊羊」",
+      "file": "时清の懒羊羊.bds",
+      "thumb": "时清の懒羊羊.bds_py_26_default_thumb.png",
+      "full": "时清の懒羊羊.bds_py_26_default.png"
+    },
+    {
+      "name": "shiq.她眸中的泪雾.脆",
+      "file": "她眸中的泪雾脆.bds",
+      "thumb": "她眸中的泪雾脆.bds_py_26_light_thumb.png",
+      "full": "她眸中的泪雾脆.bds_py_26_light.png"
+    },
+    {
+      "name": "shiqの云间私语「咕噜」",
+      "file": "云间私语の彩一.bds",
+      "thumb": "云间私语の彩一.bds_py_26_light_thumb.png",
+      "full": "云间私语の彩一.bds_py_26_light.png"
+    },
+    {
+      "name": "【shiq】清清莓上语",
+      "file": "清清莓上语の彩脆.bds",
+      "thumb": "清清莓上语の彩脆.bds_py_26_default_thumb.png",
+      "full": "清清莓上语の彩脆.bds_py_26_default.png"
+    },
+    {
+      "name": "shiq.恋爱日记.彩",
+      "file": "恋爱日记の彩闷.bds",
+      "thumb": "恋爱日记の彩闷.bds_py_26_light_thumb.png",
+      "full": "恋爱日记の彩闷.bds_py_26_light.png"
+    },
+    {
+      "name": "shiq.她眸中的泪雾.闷",
+      "file": "她眸中的泪雾闷.bds",
+      "thumb": "她眸中的泪雾闷.bds_py_26_light_thumb.png",
+      "full": "她眸中的泪雾闷.bds_py_26_light.png"
+    },
+    {
+      "name": "【shiq】清清莓上语",
+      "file": "清清莓上语の彩闷.bds",
+      "thumb": "清清莓上语の彩闷.bds_py_26_default_thumb.png",
+      "full": "清清莓上语の彩闷.bds_py_26_default.png"
+    },
+    {
+      "name": "Yami｜仿iOS",
+      "file": "Yami仿ios键盘.bds",
+      "thumb": "Yami仿ios键盘.bds_py_26_light_thumb.png",
+      "full": "Yami仿ios键盘.bds_py_26_light.png"
+    },
+    {
+      "name": "小猫泡泡浴「音效2」",
+      "file": "小猫泡泡浴の彩2.bds",
+      "thumb": "小猫泡泡浴の彩2.bds_py_26_light_thumb.png",
+      "full": "小猫泡泡浴の彩2.bds_py_26_light.png"
+    },
+    {
+      "name": "猫耳相对论♡脆",
+      "file": "猫耳相对论の脆.bds",
+      "thumb": "猫耳相对论の脆.bds_py_26_light_thumb.png",
+      "full": "猫耳相对论の脆.bds_py_26_light.png"
+    },
+    {
+      "name": "时清のdevil怨墟①",
+      "file": "devil怨墟一彩底.bds",
+      "thumb": "devil怨墟一彩底.bds_py_26_light_thumb.png",
+      "full": "devil怨墟一彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "shiq.抽象黑脸",
+      "file": "抽象黑脸.bds",
+      "thumb": "抽象黑脸.bds_py_26_default_thumb.png",
+      "full": "抽象黑脸.bds_py_26_default.png"
+    },
+    {
+      "name": "shiqの云间私语「闷脆」",
+      "file": "云间私语の彩二.bds",
+      "thumb": "云间私语の彩二.bds_py_26_light_thumb.png",
+      "full": "云间私语の彩二.bds_py_26_light.png"
+    },
+    {
+      "name": "「时清の薄巧乳酪.彩脆动漂」",
+      "file": "薄巧乳酪彩脆动漂.bds",
+      "thumb": "薄巧乳酪彩脆动漂.bds_py_26_light_thumb.png",
+      "full": "薄巧乳酪彩脆动漂.bds_py_26_light.png"
+    },
+    {
+      "name": "shiq.甜莓来信",
+      "file": "甜莓来信の融底.bds",
+      "thumb": "甜莓来信の融底.bds_py_26_default_thumb.png",
+      "full": "甜莓来信の融底.bds_py_26_default.png"
+    },
+    {
+      "name": "shiq.泪是忧郁的蓝",
+      "file": "泪是忧郁的蓝の彩.bds",
+      "thumb": "泪是忧郁的蓝の彩.bds_py_26_default_thumb.png",
+      "full": "泪是忧郁的蓝の彩.bds_py_26_default.png"
+    },
+    {
+      "name": "「清の拟态兔兔熊」",
+      "file": "拟态兔兔熊.bds",
+      "thumb": "拟态兔兔熊.bds_py_26_default_thumb.png",
+      "full": "拟态兔兔熊.bds_py_26_default.png"
+    },
+    {
+      "name": "「时清の薄巧乳酪.彩脆漂」",
+      "file": "薄巧乳酪彩脆漂.bds",
+      "thumb": "薄巧乳酪彩脆漂.bds_py_26_light_thumb.png",
+      "full": "薄巧乳酪彩脆漂.bds_py_26_light.png"
+    },
+    {
+      "name": "shiq.趴趴小羊",
+      "file": "趴趴小羊.bds",
+      "thumb": "趴趴小羊.bds_py_26_default_thumb.png",
+      "full": "趴趴小羊.bds_py_26_default.png"
+    },
+    {
+      "name": "shiq.自嘲熊",
+      "file": "自嘲熊.bds",
+      "thumb": "自嘲熊.bds_py_26_default_thumb.png",
+      "full": "自嘲熊.bds_py_26_default.png"
+    },
+    {
+      "name": "shiq.黑白棋局",
+      "file": "黑白棋局の彩闷.bds",
+      "thumb": "黑白棋局の彩闷.bds_py_26_light_thumb.png",
+      "full": "黑白棋局の彩闷.bds_py_26_light.png"
+    },
+    {
+      "name": "shiq.黑白棋局",
+      "file": "黑白棋局の彩脆.bds",
+      "thumb": "黑白棋局の彩脆.bds_py_26_light_thumb.png",
+      "full": "黑白棋局の彩脆.bds_py_26_light.png"
+    },
+    {
+      "name": "时清★樱茶星冰乐.脆脆",
+      "file": "樱茶星冰乐脆.bds",
+      "thumb": "樱茶星冰乐脆.bds_py_26_default_thumb.png",
+      "full": "樱茶星冰乐脆.bds_py_26_default.png"
+    },
+    {
+      "name": "shiq.海盐甜品",
+      "file": "海盐甜品の彩闷.bds",
+      "thumb": "海盐甜品の彩闷.bds_py_26_light_thumb.png",
+      "full": "海盐甜品の彩闷.bds_py_26_light.png"
+    },
+    {
+      "name": "shiq.童话漫游",
+      "file": "童话漫游融底.bds",
+      "thumb": "童话漫游融底.bds_py_26_default_thumb.png",
+      "full": "童话漫游融底.bds_py_26_default.png"
+    },
+    {
+      "name": "猫耳相对论♡闷",
+      "file": "猫耳相对论の闷.bds",
+      "thumb": "猫耳相对论の闷.bds_py_26_light_thumb.png",
+      "full": "猫耳相对论の闷.bds_py_26_light.png"
+    },
+    {
+      "name": "「时清の薄巧乳酪.彩闷漂」",
+      "file": "薄巧乳酪彩闷漂.bds",
+      "thumb": "薄巧乳酪彩闷漂.bds_py_26_light_thumb.png",
+      "full": "薄巧乳酪彩闷漂.bds_py_26_light.png"
     }
   ]
 }

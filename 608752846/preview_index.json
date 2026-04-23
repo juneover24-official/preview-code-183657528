@@ -1,98 +1,8 @@
 {
   "qq_number": "183657528",
   "group_number": "608752846",
-  "updated_at": "2026-04-22T16:19:14.640175",
+  "updated_at": "2026-04-23T15:52:35.160900",
   "skins": [
-    {
-      "name": "y缘の雾蓝浮星.脆",
-      "file": "y缘の雾蓝浮星脆.bds",
-      "thumb": "y缘の雾蓝浮星脆.bds_py_26_light_thumb.png",
-      "full": "y缘の雾蓝浮星脆.bds_py_26_light.png"
-    },
-    {
-      "name": "y缘.紫韵星梦",
-      "file": "y缘の紫韵星梦.bds",
-      "thumb": "y缘の紫韵星梦.bds_py_26_default_thumb.png",
-      "full": "y缘の紫韵星梦.bds_py_26_default.png"
-    },
-    {
-      "name": "草莓牛乳茶♡彩闷",
-      "file": "草莓牛乳彩闷.bds",
-      "thumb": "草莓牛乳彩闷.bds_py_26_light_thumb.png",
-      "full": "草莓牛乳彩闷.bds_py_26_light.png"
-    },
-    {
-      "name": "shiq.故乡的洋桔梗【闷】",
-      "file": "故乡的洋桔梗の闷.bds",
-      "thumb": "故乡的洋桔梗の闷.bds_py_26_light_thumb.png",
-      "full": "故乡的洋桔梗の闷.bds_py_26_light.png"
-    },
-    {
-      "name": "shiq.恋爱日记.彩",
-      "file": "恋爱日记の彩脆.bds",
-      "thumb": "恋爱日记の彩脆.bds_py_26_light_thumb.png",
-      "full": "恋爱日记の彩脆.bds_py_26_light.png"
-    },
-    {
-      "name": "shiq.棉花喵喵",
-      "file": "y缘の棉花喵喵脆.bds",
-      "thumb": "y缘の棉花喵喵脆.bds_py_26_light_thumb.png",
-      "full": "y缘の棉花喵喵脆.bds_py_26_light.png"
-    },
-    {
-      "name": "y缘の雾蓝浮星.闷",
-      "file": "y缘の雾蓝浮星闷.bds",
-      "thumb": "y缘の雾蓝浮星闷.bds_py_26_light_thumb.png",
-      "full": "y缘の雾蓝浮星闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍贴纸底包1",
-      "file": "y缘の棉花喵闷.bds",
-      "thumb": "y缘の棉花喵闷.bds_py_26_light_thumb.png",
-      "full": "y缘の棉花喵闷.bds_py_26_light.png"
-    },
-    {
-      "name": "shiq.恋爱日记.彩",
-      "file": "恋爱日记の彩闷.bds",
-      "thumb": "恋爱日记の彩闷.bds_py_26_light_thumb.png",
-      "full": "恋爱日记の彩闷.bds_py_26_light.png"
-    },
-    {
-      "name": "y清「咖啡苦巧便利店.脆音」",
-      "file": "咖啡苦巧彩脆.bds",
-      "thumb": "咖啡苦巧彩脆.bds_py_26_light_thumb.png",
-      "full": "咖啡苦巧彩脆.bds_py_26_light.png"
-    },
-    {
-      "name": "草莓牛乳茶♡融闷",
-      "file": "草莓牛乳融闷.bds",
-      "thumb": "草莓牛乳融闷.bds_py_26_light_thumb.png",
-      "full": "草莓牛乳融闷.bds_py_26_light.png"
-    },
-    {
-      "name": "shiq.故乡的洋桔梗【脆】",
-      "file": "故乡的洋桔梗の脆.bds",
-      "thumb": "故乡的洋桔梗の脆.bds_py_26_light_thumb.png",
-      "full": "故乡的洋桔梗の脆.bds_py_26_light.png"
-    },
-    {
-      "name": "草莓牛乳茶♡彩脆",
-      "file": "草莓牛乳彩脆.bds",
-      "thumb": "草莓牛乳彩脆.bds_py_26_light_thumb.png",
-      "full": "草莓牛乳彩脆.bds_py_26_light.png"
-    },
-    {
-      "name": "y清「咖啡苦巧便利店.闷音」",
-      "file": "咖啡苦巧彩闷.bds",
-      "thumb": "咖啡苦巧彩闷.bds_py_26_light_thumb.png",
-      "full": "咖啡苦巧彩闷.bds_py_26_light.png"
-    },
-    {
-      "name": "草莓牛乳茶♡融脆",
-      "file": "草莓牛乳融脆.bds",
-      "thumb": "草莓牛乳融脆.bds_py_26_light_thumb.png",
-      "full": "草莓牛乳融脆.bds_py_26_light.png"
-    },
     {
       "name": "草莓牛乳茶♡彩闷",
       "file": "草莓牛乳彩闷.bdi",
@@ -218,6 +128,96 @@
       "file": "恋爱日记の融脆.bdi",
       "thumb": "恋爱日记の融脆.bdi_py_26_light_thumb.png",
       "full": "恋爱日记の融脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "y缘の雾蓝浮星.脆",
+      "file": "y缘の雾蓝浮星脆.bds",
+      "thumb": "y缘の雾蓝浮星脆.bds_py_26_light_thumb.png",
+      "full": "y缘の雾蓝浮星脆.bds_py_26_light.png"
+    },
+    {
+      "name": "y缘.紫韵星梦",
+      "file": "y缘の紫韵星梦.bds",
+      "thumb": "y缘の紫韵星梦.bds_py_26_default_thumb.png",
+      "full": "y缘の紫韵星梦.bds_py_26_default.png"
+    },
+    {
+      "name": "草莓牛乳茶♡彩闷",
+      "file": "草莓牛乳彩闷.bds",
+      "thumb": "草莓牛乳彩闷.bds_py_26_light_thumb.png",
+      "full": "草莓牛乳彩闷.bds_py_26_light.png"
+    },
+    {
+      "name": "shiq.故乡的洋桔梗【闷】",
+      "file": "故乡的洋桔梗の闷.bds",
+      "thumb": "故乡的洋桔梗の闷.bds_py_26_light_thumb.png",
+      "full": "故乡的洋桔梗の闷.bds_py_26_light.png"
+    },
+    {
+      "name": "shiq.恋爱日记.彩",
+      "file": "恋爱日记の彩脆.bds",
+      "thumb": "恋爱日记の彩脆.bds_py_26_light_thumb.png",
+      "full": "恋爱日记の彩脆.bds_py_26_light.png"
+    },
+    {
+      "name": "shiq.棉花喵喵",
+      "file": "y缘の棉花喵喵脆.bds",
+      "thumb": "y缘の棉花喵喵脆.bds_py_26_light_thumb.png",
+      "full": "y缘の棉花喵喵脆.bds_py_26_light.png"
+    },
+    {
+      "name": "y缘の雾蓝浮星.闷",
+      "file": "y缘の雾蓝浮星闷.bds",
+      "thumb": "y缘の雾蓝浮星闷.bds_py_26_light_thumb.png",
+      "full": "y缘の雾蓝浮星闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "y缘の棉花喵闷.bds",
+      "thumb": "y缘の棉花喵闷.bds_py_26_light_thumb.png",
+      "full": "y缘の棉花喵闷.bds_py_26_light.png"
+    },
+    {
+      "name": "shiq.恋爱日记.彩",
+      "file": "恋爱日记の彩闷.bds",
+      "thumb": "恋爱日记の彩闷.bds_py_26_light_thumb.png",
+      "full": "恋爱日记の彩闷.bds_py_26_light.png"
+    },
+    {
+      "name": "y清「咖啡苦巧便利店.脆音」",
+      "file": "咖啡苦巧彩脆.bds",
+      "thumb": "咖啡苦巧彩脆.bds_py_26_light_thumb.png",
+      "full": "咖啡苦巧彩脆.bds_py_26_light.png"
+    },
+    {
+      "name": "草莓牛乳茶♡融闷",
+      "file": "草莓牛乳融闷.bds",
+      "thumb": "草莓牛乳融闷.bds_py_26_light_thumb.png",
+      "full": "草莓牛乳融闷.bds_py_26_light.png"
+    },
+    {
+      "name": "shiq.故乡的洋桔梗【脆】",
+      "file": "故乡的洋桔梗の脆.bds",
+      "thumb": "故乡的洋桔梗の脆.bds_py_26_light_thumb.png",
+      "full": "故乡的洋桔梗の脆.bds_py_26_light.png"
+    },
+    {
+      "name": "草莓牛乳茶♡彩脆",
+      "file": "草莓牛乳彩脆.bds",
+      "thumb": "草莓牛乳彩脆.bds_py_26_light_thumb.png",
+      "full": "草莓牛乳彩脆.bds_py_26_light.png"
+    },
+    {
+      "name": "y清「咖啡苦巧便利店.闷音」",
+      "file": "咖啡苦巧彩闷.bds",
+      "thumb": "咖啡苦巧彩闷.bds_py_26_light_thumb.png",
+      "full": "咖啡苦巧彩闷.bds_py_26_light.png"
+    },
+    {
+      "name": "草莓牛乳茶♡融脆",
+      "file": "草莓牛乳融脆.bds",
+      "thumb": "草莓牛乳融脆.bds_py_26_light_thumb.png",
+      "full": "草莓牛乳融脆.bds_py_26_light.png"
     }
   ]
 }

@@ -1,14 +1,8 @@
 {
   "qq_number": "183657528",
   "group_number": "761094065",
-  "updated_at": "2026-04-22T16:19:14.673401",
+  "updated_at": "2026-04-23T15:52:35.122464",
   "skins": [
-    {
-      "name": "shiq.圣诞浆果屋",
-      "file": "圣诞浆果屋の彩.bds",
-      "thumb": "圣诞浆果屋の彩.bds_py_26_default_thumb.png",
-      "full": "圣诞浆果屋の彩.bds_py_26_default.png"
-    },
     {
       "name": "shiq.圣诞浆果屋",
       "file": "圣诞浆果屋の融.bdi",
@@ -20,6 +14,12 @@
       "file": "圣诞浆果屋の彩.bdi",
       "thumb": "圣诞浆果屋の彩.bdi_py_26_default_thumb.png",
       "full": "圣诞浆果屋の彩.bdi_py_26_default.png"
+    },
+    {
+      "name": "shiq.圣诞浆果屋",
+      "file": "圣诞浆果屋の彩.bds",
+      "thumb": "圣诞浆果屋の彩.bds_py_26_default_thumb.png",
+      "full": "圣诞浆果屋の彩.bds_py_26_default.png"
     }
   ]
 }

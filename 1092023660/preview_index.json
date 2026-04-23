@@ -1,20 +1,8 @@
 {
   "qq_number": "183657528",
   "group_number": "1092023660",
-  "updated_at": "2026-04-22T16:19:41.898012",
+  "updated_at": "2026-04-23T15:52:38.906301",
   "skins": [
-    {
-      "name": "云眠语笺",
-      "file": "Y土豆云眠语笺.bds",
-      "thumb": "Y土豆云眠语笺.bds_py_26_default_thumb.png",
-      "full": "Y土豆云眠语笺.bds_py_26_default.png"
-    },
-    {
-      "name": "青空云信",
-      "file": "Y土豆青空云信.bds",
-      "thumb": "Y土豆青空云信.bds_py_26_default_thumb.png",
-      "full": "Y土豆青空云信.bds_py_26_default.png"
-    },
     {
       "name": "青空云信",
       "file": "Y土豆青空云信.bdi",
@@ -26,6 +14,18 @@
       "file": "Y土豆云眠语笺.bdi",
       "thumb": "Y土豆云眠语笺.bdi_py_26_default_thumb.png",
       "full": "Y土豆云眠语笺.bdi_py_26_default.png"
+    },
+    {
+      "name": "云眠语笺",
+      "file": "Y土豆云眠语笺.bds",
+      "thumb": "Y土豆云眠语笺.bds_py_26_default_thumb.png",
+      "full": "Y土豆云眠语笺.bds_py_26_default.png"
+    },
+    {
+      "name": "青空云信",
+      "file": "Y土豆青空云信.bds",
+      "thumb": "Y土豆青空云信.bds_py_26_default_thumb.png",
+      "full": "Y土豆青空云信.bds_py_26_default.png"
     }
   ]
 }
