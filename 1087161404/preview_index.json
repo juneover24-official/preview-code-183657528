@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1087161404",
-  "updated_at": "2026-05-31T10:48:40+00:00",
+  "updated_at": "2026-05-31T10:50:06+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -260,6 +260,12 @@
       "file": "模糊边界の脆.bdi",
       "thumb": "模糊边界の脆.bdi_py_26_light_thumb.png",
       "full": "模糊边界の脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "模糊边界の闷",
+      "file": "模糊边界の闷.bdi",
+      "thumb": "模糊边界の闷.bdi_py_26_light_thumb.png",
+      "full": "模糊边界の闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
