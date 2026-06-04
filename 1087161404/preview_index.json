@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1087161404",
-  "updated_at": "2026-06-04T04:02:27+00:00",
+  "updated_at": "2026-06-04T04:06:44+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -272,6 +272,12 @@
       "file": "莓莓春日序の脆.bdi",
       "thumb": "莓莓春日序の脆.bdi_py_26_light_thumb.png",
       "full": "莓莓春日序の脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "双生兔の彩闷",
+      "file": "双生兔の彩闷.bdi",
+      "thumb": "双生兔の彩闷.bdi_py_26_light_thumb.png",
+      "full": "双生兔の彩闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
