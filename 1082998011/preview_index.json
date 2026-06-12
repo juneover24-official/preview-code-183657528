@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1082998011",
-  "updated_at": "2026-06-12T10:48:33+00:00",
+  "updated_at": "2026-06-12T10:50:19+00:00",
   "skins": [
     {
       "name": "「回忆录」Виктория-闷",
@@ -50,6 +50,12 @@
       "file": "Викторияの融脆.bds",
       "thumb": "Викторияの融脆.bds_py_26_light_thumb.png",
       "full": "Викторияの融脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "Y土豆の四时愿",
+      "file": "Y土豆の四时愿.bdi",
+      "thumb": "Y土豆の四时愿.bdi_py_26_light_thumb.png",
+      "full": "Y土豆の四时愿.bdi_py_26_light_thumb.png"
     }
   ]
 }
