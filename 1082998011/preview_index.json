@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1082998011",
-  "updated_at": "2026-06-12T10:44:40+00:00",
+  "updated_at": "2026-06-12T10:45:28+00:00",
   "skins": [
     {
       "name": "「回忆录」Виктория-闷",
@@ -20,6 +20,12 @@
       "file": "Викторияの彩脆.bdi",
       "thumb": "Викторияの彩脆.bdi_py_26_light_thumb.png",
       "full": "Викторияの彩脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "Викторияの彩闷",
+      "file": "Викторияの彩闷.bdi",
+      "thumb": "Викторияの彩闷.bdi_py_26_light_thumb.png",
+      "full": "Викторияの彩闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
