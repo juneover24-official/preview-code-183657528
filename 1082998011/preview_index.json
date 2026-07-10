@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1082998011",
-  "updated_at": "2026-07-10T06:35:15+00:00",
+  "updated_at": "2026-07-10T06:35:25+00:00",
   "skins": [
     {
       "name": "「回忆录」Виктория-闷",
@@ -104,6 +104,12 @@
       "file": "童话枷锁の彩脆.bdi",
       "thumb": "童话枷锁の彩脆.bdi_py_26_light_thumb.png",
       "full": "童话枷锁の彩脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "童话枷锁【融脆】",
+      "file": "童话枷锁の融脆.bdi",
+      "thumb": "童话枷锁の融脆.bdi_py_26_light_thumb.png",
+      "full": "童话枷锁の融脆.bdi_py_26_light_thumb.png"
     }
   ]
 }
