@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1082998011",
-  "updated_at": "2026-07-24T16:32:49+00:00",
+  "updated_at": "2026-07-24T17:11:15+00:00",
   "skins": [
     {
       "name": "「回忆录」Виктория-闷",
@@ -170,6 +170,12 @@
       "file": "恶魔眼の融脆.bds",
       "thumb": "恶魔眼の融脆.bds_py_26_light_thumb.png",
       "full": "恶魔眼の融脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "恶魔眼の彩脆",
+      "file": "恶魔眼の彩脆.bds",
+      "thumb": "恶魔眼の彩脆.bds_py_26_light_thumb.png",
+      "full": "恶魔眼の彩脆.bds_py_26_light_thumb.png"
     }
   ]
 }
