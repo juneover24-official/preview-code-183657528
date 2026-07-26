@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1082998011",
-  "updated_at": "2026-07-26T09:38:50+00:00",
+  "updated_at": "2026-07-26T09:38:57+00:00",
   "skins": [
     {
       "name": "「回忆录」Виктория-闷",
@@ -206,6 +206,12 @@
       "file": "焚旧烛の彩闷.bdi",
       "thumb": "焚旧烛の彩闷.bdi_py_26_light_thumb.png",
       "full": "焚旧烛の彩闷.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "焚旧烛「彩闷」",
+      "file": "焚旧烛の彩闷.bds",
+      "thumb": "焚旧烛の彩闷.bds_py_26_light_thumb.png",
+      "full": "焚旧烛の彩闷.bds_py_26_light_thumb.png"
     }
   ]
 }
