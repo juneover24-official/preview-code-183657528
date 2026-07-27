@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1082998011",
-  "updated_at": "2026-07-27T03:12:00+00:00",
+  "updated_at": "2026-07-27T03:18:33+00:00",
   "skins": [
     {
       "name": "「回忆录」Виктория-闷",
@@ -236,6 +236,12 @@
       "file": "世纪骸骨序章の彩脆.bdi",
       "thumb": "世纪骸骨序章の彩脆.bdi_py_26_light_thumb.png",
       "full": "世纪骸骨序章の彩脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "世纪骸骨序章「闷」",
+      "file": "世纪骸骨序章の融闷.bds",
+      "thumb": "世纪骸骨序章の融闷.bds_py_26_light_thumb.png",
+      "full": "世纪骸骨序章の融闷.bds_py_26_light_thumb.png"
     }
   ]
 }
