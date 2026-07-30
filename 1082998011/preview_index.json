@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1082998011",
-  "updated_at": "2026-07-30T01:22:00+00:00",
+  "updated_at": "2026-07-30T01:22:05+00:00",
   "skins": [
     {
       "name": "「回忆录」Виктория-闷",
@@ -260,6 +260,12 @@
       "file": "蝶恋花の彩闷.bds",
       "thumb": "蝶恋花の彩闷.bds_py_26_light_thumb.png",
       "full": "蝶恋花の彩闷.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "蝶恋花の脆",
+      "file": "蝶恋花の彩脆.bds",
+      "thumb": "蝶恋花の彩脆.bds_py_26_light_thumb.png",
+      "full": "蝶恋花の彩脆.bds_py_26_light_thumb.png"
     }
   ]
 }
