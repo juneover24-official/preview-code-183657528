@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1082998011",
-  "updated_at": "2026-07-30T01:40:04+00:00",
+  "updated_at": "2026-09-15T05:40:52+00:00",
   "skins": [
     {
       "name": "「回忆录」Виктория-闷",
@@ -290,6 +290,13 @@
       "file": "蝶恋花の彩脆.bdi",
       "thumb": "蝶恋花の彩脆.bdi_py_26_light_thumb.png",
       "full": "蝶恋花の彩脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "世纪骸骨序章「闷」",
+      "file": "世纪骸骨序章の彩闷.bds",
+      "thumb": "世纪骸骨序章の彩闷.bds_py_26_light_thumb.png",
+      "full": "世纪骸骨序章の彩闷.bds_py_26_light_thumb.png",
+      "file_id": "7386d210f1d1e473ec8f38159b48cea6"
     }
   ]
 }
