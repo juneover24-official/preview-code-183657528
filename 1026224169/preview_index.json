@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1026224169",
-  "updated_at": "2026-09-18T03:55:20+00:00",
+  "updated_at": "2026-09-18T03:55:26+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -764,6 +764,12 @@
       "file": "眠花の融脆.bdi",
       "thumb": "眠花の融脆.bdi_py_26_light_thumb.png",
       "full": "眠花の融脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "【illuw】眠花",
+      "file": "眠花の彩闷.bds",
+      "thumb": "眠花の彩闷.bds_py_26_light_thumb.png",
+      "full": "眠花の彩闷.bds_py_26_light_thumb.png"
     }
   ]
 }
