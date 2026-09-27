@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1108592965",
-  "updated_at": "2026-09-27T00:31:50+00:00",
+  "updated_at": "2026-09-27T00:31:55+00:00",
   "skins": [
     {
       "name": "季风性气候001闷彩",
@@ -26,6 +26,12 @@
       "file": "季风性气候001脆彩.bdi",
       "thumb": "季风性气候001脆彩.bdi_py_26_light_thumb.png",
       "full": "季风性气候001脆彩.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "季风性气候001脆融",
+      "file": "季风性气候001脆融.bdi",
+      "thumb": "季风性气候001脆融.bdi_py_26_light_thumb.png",
+      "full": "季风性气候001脆融.bdi_py_26_light_thumb.png"
     }
   ]
 }
