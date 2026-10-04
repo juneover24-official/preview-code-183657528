@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1121339381",
-  "updated_at": "2026-10-04T05:22:22+00:00",
+  "updated_at": "2026-10-04T05:22:27+00:00",
   "skins": [
     {
       "name": "»苦百合",
@@ -74,6 +74,12 @@
       "file": "苦百合彩脆有动销.bds",
       "thumb": "苦百合彩脆有动销.bds_py_26_light_thumb.png",
       "full": "苦百合彩脆有动销.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "»苦百合",
+      "file": "苦百合融脆有动销.bdi",
+      "thumb": "苦百合融脆有动销.bdi_py_26_light_thumb.png",
+      "full": "苦百合融脆有动销.bdi_py_26_light_thumb.png"
     }
   ]
 }
