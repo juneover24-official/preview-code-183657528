@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1108592965",
-  "updated_at": "2026-10-28T06:41:48+00:00",
+  "updated_at": "2026-10-28T11:30:49+00:00",
   "skins": [
     {
       "name": "季风性气候001闷彩",
@@ -123,6 +123,13 @@
       "thumb": "淡淡的暖暖的-脆.bds_py_26_light_thumb.png",
       "full": "淡淡的暖暖的-脆.bds_py_26_light_thumb.png",
       "file_id": "6d2e03ba369e22d80b9df7822c313d11"
+    },
+    {
+      "name": "淡淡的，暖暖的/脆",
+      "file": "淡淡的暖暖的-脆.bdi",
+      "thumb": "淡淡的暖暖的-脆.bdi_py_26_light_thumb.png",
+      "full": "淡淡的暖暖的-脆.bdi_py_26_light_thumb.png",
+      "file_id": "cd703b443b524ffa9f48d39734be05a7"
     }
   ]
 }
