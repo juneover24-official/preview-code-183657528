@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1026224169",
-  "updated_at": "2026-10-30T17:42:57+00:00",
+  "updated_at": "2026-10-30T17:44:58+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -812,6 +812,13 @@
       "thumb": "夢界传讯一融.bdi_py_26_light_thumb.png",
       "full": "夢界传讯一融.bdi_py_26_light_thumb.png",
       "file_id": "d038f3e571382ecbc2ba8ba2075c4651"
+    },
+    {
+      "name": "夢界传讯",
+      "file": "夢界传讯二融.bdi",
+      "thumb": "夢界传讯二融.bdi_py_26_light_thumb.png",
+      "full": "夢界传讯二融.bdi_py_26_light_thumb.png",
+      "file_id": "94149bba2bff641a7e2dacf1f269242d"
     }
   ]
 }
