@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1121339381",
-  "updated_at": "2026-11-02T16:02:43+00:00",
+  "updated_at": "2026-11-03T03:22:10+00:00",
   "skins": [
     {
       "name": "»苦百合",
@@ -146,6 +146,13 @@
       "thumb": "未名香闷.bds_py_26_light_thumb.png",
       "full": "未名香闷.bds_py_26_light_thumb.png",
       "file_id": "e0e266a17ec4c8e166b6c444f54a08fc"
+    },
+    {
+      "name": "未名香",
+      "file": "未名香脆_融合.bds",
+      "thumb": "未名香脆_融合.bds_py_26_light_thumb.png",
+      "full": "未名香脆_融合.bds_py_26_light_thumb.png",
+      "file_id": "e3dcac623ba2386141cff6637ad3c157"
     }
   ]
 }
