@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1032842468",
-  "updated_at": "2026-11-17T06:50:36+00:00",
+  "updated_at": "2026-11-17T06:56:21+00:00",
   "skins": [
     {
       "name": "时清掉落「晦涩心绪」彩闷",
@@ -45,6 +45,13 @@
       "thumb": "shiqの晦涩心绪融闷.bdi_py_26_light_thumb.png",
       "full": "shiqの晦涩心绪融闷.bdi_py_26_light_thumb.png",
       "file_id": "4a90fa2d7896df84a8f64da6d0371ee8"
+    },
+    {
+      "name": "时清掉落「晦涩心绪」融脆",
+      "file": "shiqの晦涩心绪融脆.bdi",
+      "thumb": "shiqの晦涩心绪融脆.bdi_py_26_light_thumb.png",
+      "full": "shiqの晦涩心绪融脆.bdi_py_26_light_thumb.png",
+      "file_id": "931873c89678221ae21de66a84f8e258"
     }
   ]
 }
