@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "761094065",
-  "updated_at": "2026-11-21T08:49:55+00:00",
+  "updated_at": "2026-11-21T08:50:10+00:00",
   "skins": [
     {
       "name": "shiq.圣诞浆果屋",
@@ -32,6 +32,12 @@
       "file": "废弃貝斯-脆.bds",
       "thumb": "废弃貝斯-脆.bds_py_26_light_thumb.png",
       "full": "废弃貝斯-脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "废弃貝斯脆，🈲二传拆包",
+      "file": "废弃貝斯-脆.bdi",
+      "thumb": "废弃貝斯-脆.bdi_py_26_light_thumb.png",
+      "full": "废弃貝斯-脆.bdi_py_26_light_thumb.png"
     }
   ]
 }
