@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1137532742",
-  "updated_at": "2026-11-23T14:57:40+00:00",
+  "updated_at": "2026-11-23T14:57:47+00:00",
   "skins": [
     {
       "name": "芸の萌物番*彩脆",
@@ -14,6 +14,12 @@
       "file": "芸の萌物番_彩.bds",
       "thumb": "芸の萌物番_彩.bds_py_26_light_thumb.png",
       "full": "芸の萌物番_彩.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "芸の萌物番*融",
+      "file": "芸の萌物番_融.bds",
+      "thumb": "芸の萌物番_融.bds_py_26_light_thumb.png",
+      "full": "芸の萌物番_融.bds_py_26_light_thumb.png"
     }
   ]
 }
