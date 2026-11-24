@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1137532742",
-  "updated_at": "2026-11-24T13:46:26+00:00",
+  "updated_at": "2026-11-24T14:19:25+00:00",
   "skins": [
     {
       "name": "芸の萌物番*彩脆",
@@ -145,6 +145,13 @@
       "thumb": "芸の碎花匣-融闷.bdi_py_26_light_thumb.png",
       "full": "芸の碎花匣-融闷.bdi_py_26_light_thumb.png",
       "file_id": "8e525b3bb859b5031cd0ed67507bcb8c"
+    },
+    {
+      "name": "芸の碎花匣-彩脆",
+      "file": "芸の碎花匣-彩脆.bdi",
+      "thumb": "芸の碎花匣-彩脆.bdi_py_26_light_thumb.png",
+      "full": "芸の碎花匣-彩脆.bdi_py_26_light_thumb.png",
+      "file_id": "27525f73f93f275232e941b7a1b56620"
     }
   ]
 }
