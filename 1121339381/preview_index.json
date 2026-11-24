@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1121339381",
-  "updated_at": "2026-11-23T14:20:51+00:00",
+  "updated_at": "2026-11-24T14:59:00+00:00",
   "skins": [
     {
       "name": "»苦百合",
@@ -222,6 +222,13 @@
       "thumb": "陌上花脆彩.bdi_py_26_light_thumb.png",
       "full": "陌上花脆彩.bdi_py_26_light_thumb.png",
       "file_id": "c30e2dcbfd7e75573546fc0191158e08"
+    },
+    {
+      "name": "陌上花",
+      "file": "陌上花闷融.bdi",
+      "thumb": "陌上花闷融.bdi_py_26_light_thumb.png",
+      "full": "陌上花闷融.bdi_py_26_light_thumb.png",
+      "file_id": "88af6062a9bf15c499e4d5bf35ae58e9"
     }
   ]
 }
