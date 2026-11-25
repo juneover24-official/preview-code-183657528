@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1137532742",
-  "updated_at": "2026-11-25T11:27:20+00:00",
+  "updated_at": "2026-11-25T11:27:28+00:00",
   "skins": [
     {
       "name": "芸の萌物番*彩脆",
@@ -170,6 +170,12 @@
       "file": "芸の蓝花泪版本1-脆彩.bds",
       "thumb": "芸の蓝花泪版本1-脆彩.bds_py_26_light_thumb.png",
       "full": "芸の蓝花泪版本1-脆彩.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "芸の蓝花泪版本1-融闷",
+      "file": "芸の蓝花泪版本1-闷融.bds",
+      "thumb": "芸の蓝花泪版本1-闷融.bds_py_26_light_thumb.png",
+      "full": "芸の蓝花泪版本1-闷融.bds_py_26_light_thumb.png"
     }
   ]
 }
