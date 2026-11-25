@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1026224169",
-  "updated_at": "2026-11-17T09:40:25+00:00",
+  "updated_at": "2026-11-25T06:29:22+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -854,6 +854,13 @@
       "thumb": "夢界传讯三彩.bdi_py_26_light_thumb.png",
       "full": "夢界传讯三彩.bdi_py_26_light_thumb.png",
       "file_id": "af8783139f027a5fd1af41774173293b"
+    },
+    {
+      "name": "山空春芜「脆」",
+      "file": "山空春芜の彩脆.bds",
+      "thumb": "山空春芜の彩脆.bds_py_26_light_thumb.png",
+      "full": "山空春芜の彩脆.bds_py_26_light_thumb.png",
+      "file_id": "a51e05553f9979900968e429ac0aaa28"
     }
   ]
 }
