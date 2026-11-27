@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1108592965",
-  "updated_at": "2026-11-02T08:02:23+00:00",
+  "updated_at": "2026-11-27T06:51:06+00:00",
   "skins": [
     {
       "name": "季风性气候001闷彩",
@@ -144,6 +144,13 @@
       "thumb": "淡淡的暖暖的-闷.bds_py_26_light_thumb.png",
       "full": "淡淡的暖暖的-闷.bds_py_26_light_thumb.png",
       "file_id": "a8b98eada4f0b21f3b9b72021c7d4224"
+    },
+    {
+      "name": "melo_berry/闷融",
+      "file": "melo_berry闷融.bdi",
+      "thumb": "melo_berry闷融.bdi_py_26_light_thumb.png",
+      "full": "melo_berry闷融.bdi_py_26_light_thumb.png",
+      "file_id": "0276405120f9873615b4b102cfddd6b5"
     }
   ]
 }
