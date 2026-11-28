@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1095591823",
-  "updated_at": "2026-11-28T16:00:18+00:00",
+  "updated_at": "2026-11-28T16:01:08+00:00",
   "skins": [
     {
       "name": "回忆录-罪1",
@@ -40,16 +40,16 @@
       "full": "罪2闷融.bds_py_26_light_thumb.png"
     },
     {
-      "name": "回忆录-罪1",
-      "file": "罪1闷.bds",
-      "thumb": "罪1闷.bds_py_26_light_thumb.png",
-      "full": "罪1闷.bds_py_26_light_thumb.png"
-    },
-    {
       "name": "回忆录-罪2",
       "file": "罪2闷.bds",
       "thumb": "罪2闷.bds_py_26_light_thumb.png",
       "full": "罪2闷.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "回忆录-罪1",
+      "file": "罪1闷.bds",
+      "thumb": "罪1闷.bds_py_26_light_thumb.png",
+      "full": "罪1闷.bds_py_26_light_thumb.png"
     }
   ]
 }
