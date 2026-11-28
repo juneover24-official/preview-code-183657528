@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1137532742",
-  "updated_at": "2026-11-27T10:06:38+00:00",
+  "updated_at": "2026-11-28T11:18:10+00:00",
   "skins": [
     {
       "name": "芸の萌物番*彩脆",
@@ -274,6 +274,13 @@
       "file": "芸の初見习人類-融.bdi",
       "thumb": "芸の初見习人類-融.bdi_py_26_light_thumb.png",
       "full": "芸の初見习人類-融.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "芸の初見习人類-彩",
+      "file": "芸の初見习人類-彩.bds",
+      "thumb": "芸の初見习人類-彩.bds_py_26_light_thumb.png",
+      "full": "芸の初見习人類-彩.bds_py_26_light_thumb.png",
+      "file_id": "fa5e3c9265cec140a4dc3eea2164b249"
     }
   ]
 }
