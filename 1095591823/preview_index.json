@@ -1,7 +1,7 @@
 {
   "qq_number": "183657528",
   "group_number": "1095591823",
-  "updated_at": "2026-11-28T15:59:23+00:00",
+  "updated_at": "2026-11-28T15:59:30+00:00",
   "skins": [
     {
       "name": "回忆录-罪1",
@@ -20,6 +20,12 @@
       "file": "罪2脆.bds",
       "thumb": "罪2脆.bds_py_26_light_thumb.png",
       "full": "罪2脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "回忆录-罪1",
+      "file": "罪1闷融.bds",
+      "thumb": "罪1闷融.bds_py_26_light_thumb.png",
+      "full": "罪1闷融.bds_py_26_light_thumb.png"
     }
   ]
 }
